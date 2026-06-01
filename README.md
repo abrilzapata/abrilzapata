@@ -1,3 +1,5 @@
+<img src="foto-abril.png" alt="Foto profesional de Abril Zapata" width="165" align="right">
+
 <h1 align="center">Hola, soy Abril Zapata 👋</h1>
 
 <h3 align="center">
@@ -10,14 +12,17 @@ Estudiante de Ingeniería Industrial | Consultora SAP
 </p>
 
 <p align="center">
-  <a href="https://abrilzapata-portfolio.netlify.app/" target="_blank">
-    🌐 Ver mi Portfolio
+  <a href="https://abrilzapata-portfolio.netlify.app/">
+    🌐 Ver mi portfolio
   </a>
   &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/abril-zapata-42188b16a" target="_blank">
+  <a href="https://www.linkedin.com/in/abril-zapata-42188b16a">
     💼 LinkedIn
   </a>
 </p>
+
+<br clear="right">
+
 
 ---
 
