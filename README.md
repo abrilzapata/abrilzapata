@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="330" align="center" valign="middle">
-      <img src="foto-abril-perfil.png" alt="Foto profesional de Abril Zapata" width="295">
+      <img src="foto-abril-perfil-transparente.png" alt="Foto profesional de Abril Zapata" width="295">
     </td>
     <td valign="middle">
       <h2>Hola, soy Abril Zapata 👋</h2>
