@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Abril Zapata 👋</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería Industrial | Consultora Funcional SAP HCM | Gestión de RRHH & Procesos | Mejora Continua
+Estudiante de Ingeniería Industrial | Consultora SAP
 </h3>
 
 <p align="center">
