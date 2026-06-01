@@ -49,10 +49,13 @@ Actualmente estoy fortaleciendo mis conocimientos en programación y soluciones 
 
 ### En aprendizaje y desarrollo
 
+### En aprendizaje y desarrollo
+
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   <img src="https://img.shields.io/badge/Data_Analytics-0F8B8D?style=for-the-badge" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI">
   <img src="https://img.shields.io/badge/SAP_HCM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HCM">
 </p>
 
