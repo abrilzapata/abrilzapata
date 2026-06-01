@@ -1,4 +1,5 @@
-<img src="foto-abril.png" alt="Foto profesional de Abril Zapata" width="165" align="right">
+<img src="foto-abril.png.jfif" alt="Foto profesional de Abril Zapata" width="165" align="right">
+
 
 <h1 align="center">Hola, soy Abril Zapata 👋</h1>
 
