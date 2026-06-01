@@ -1,12 +1,10 @@
 <table>
   <tr>
-    <td width="285" align="center" valign="middle">
-      <img src="foto-abril-redonda-v2.png.png" alt="Foto profesional de Abril Zapata" width="255">
+    <td width="330" align="center" valign="middle">
+      <img src="foto-abril-perfil.png" alt="Foto profesional de Abril Zapata" width="295">
     </td>
     <td valign="middle">
-      <p>
-        <strong>Hola, soy Abril Zapata 👋</strong>
-      </p>
+      <h2>Hola, soy Abril Zapata 👋</h2>
       <p>
         <strong>Estudiante de Ingeniería Industrial | Consultora SAP</strong>
       </p>
@@ -28,8 +26,6 @@
 </table>
 
 ---
-
-
 
 ## 👩‍💻 Sobre mí
 
