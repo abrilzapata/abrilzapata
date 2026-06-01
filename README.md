@@ -23,7 +23,7 @@ Estudiante de Ingeniería Industrial | Consultora SAP
 
 ## 👩‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería Industrial** y **Consultora Funcional SAP HCM**, con experiencia operativa en procesos de Administración de Personal (PA) y actualización de datos organizativos (OM).
+Soy estudiante de **Ingeniería Industrial** y **Consultora SAP **, con experiencia operativa en procesos de Administración de Personal (PA) y actualización de datos organizativos (OM).
 
 Cuento con experiencia en el área de People, trabajando sobre procesos administrativos y operativos, y comprendiendo el impacto que una correcta gestión de datos y sistemas tiene en la organización.
 
