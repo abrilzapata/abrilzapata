@@ -1,18 +1,16 @@
-<img src="foto-abril.png.jfif" alt="Foto profesional de Abril Zapata" width="165" align="right">
+<img src="foto-abril-redonda.png" alt="Foto profesional de Abril Zapata" width="210" align="left">
 
+<h1>Hola, soy Abril Zapata 👋</h1>
 
-<h1 align="center">Hola, soy Abril Zapata 👋</h1>
-
-<h3 align="center">
+<h3>
 Estudiante de Ingeniería Industrial | Consultora SAP
 </h3>
 
-<p align="center">
-  Me interesa conectar procesos, personas y tecnología para desarrollar soluciones
-  que generen valor, optimicen la gestión y mejoren la experiencia de los usuarios.
+<p>
+Me interesa conectar procesos, personas y tecnología para desarrollar soluciones que generen valor, optimicen la gestión y mejoren la experiencia de los usuarios.
 </p>
 
-<p align="center">
+<p>
   <a href="https://abrilzapata-portfolio.netlify.app/">
     🌐 Ver mi portfolio
   </a>
@@ -22,7 +20,7 @@ Estudiante de Ingeniería Industrial | Consultora SAP
   </a>
 </p>
 
-<br clear="right">
+<br clear="left">
 
 
 ---
