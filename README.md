@@ -35,7 +35,6 @@ Actualmente estoy fortaleciendo mis conocimientos en programación y soluciones 
 - Python
 - Visualización de datos
 - Aplicaciones orientadas al usuario
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
