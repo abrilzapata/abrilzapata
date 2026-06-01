@@ -1,39 +1,35 @@
-<img src="foto-abril-redonda-v2.png" alt="Foto profesional de Abril Zapata" width="245" align="left">
-
-<br>
-
-<p>
-  <strong>
-    <font size="6">Hola, soy Abril Zapata 👋</font>
-  </strong>
-</p>
-
-<p>
-  <strong>Estudiante de Ingeniería Industrial | Consultora SAP</strong>
-</p>
-
-<p>
-  Me interesa conectar procesos, personas y tecnología para desarrollar soluciones
-  que generen valor, optimicen la gestión y mejoren la experiencia de los usuarios.
-</p>
-
-<p>
-  <a href="https://abrilzapata-portfolio.netlify.app/">
-    🌐 Ver mi portfolio
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/abril-zapata-42188b16a">
-    💼 LinkedIn
-  </a>
-</p>
-
-<br clear="left">
+<table>
+  <tr>
+    <td width="285" align="center" valign="middle">
+      <img src="foto-abril-redonda-v2.png.png" alt="Foto profesional de Abril Zapata" width="255">
+    </td>
+    <td valign="middle">
+      <p>
+        <strong>Hola, soy Abril Zapata 👋</strong>
+      </p>
+      <p>
+        <strong>Estudiante de Ingeniería Industrial | Consultora SAP</strong>
+      </p>
+      <p>
+        Me interesa conectar procesos, personas y tecnología para desarrollar soluciones
+        que generen valor, optimicen la gestión y mejoren la experiencia de los usuarios.
+      </p>
+      <p>
+        <a href="https://abrilzapata-portfolio.netlify.app/">
+          🌐 Ver mi portfolio
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/abril-zapata-42188b16a">
+          💼 LinkedIn
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 
-
----
 
 ## 👩‍💻 Sobre mí
 
