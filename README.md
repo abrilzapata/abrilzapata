@@ -1,13 +1,20 @@
-<img src="foto-abril-redonda.png" alt="Foto profesional de Abril Zapata" width="210" align="left">
+<img src="foto-abril-redonda-v2.png" alt="Foto profesional de Abril Zapata" width="245" align="left">
 
-<h1>Hola, soy Abril Zapata 👋</h1>
-
-<h3>
-Estudiante de Ingeniería Industrial | Consultora SAP
-</h3>
+<br>
 
 <p>
-Me interesa conectar procesos, personas y tecnología para desarrollar soluciones que generen valor, optimicen la gestión y mejoren la experiencia de los usuarios.
+  <strong>
+    <font size="6">Hola, soy Abril Zapata 👋</font>
+  </strong>
+</p>
+
+<p>
+  <strong>Estudiante de Ingeniería Industrial | Consultora SAP</strong>
+</p>
+
+<p>
+  Me interesa conectar procesos, personas y tecnología para desarrollar soluciones
+  que generen valor, optimicen la gestión y mejoren la experiencia de los usuarios.
 </p>
 
 <p>
@@ -21,6 +28,9 @@ Me interesa conectar procesos, personas y tecnología para desarrollar solucione
 </p>
 
 <br clear="left">
+
+---
+
 
 
 ---
