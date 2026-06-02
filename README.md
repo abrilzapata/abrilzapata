@@ -60,9 +60,6 @@
 
 ## 📚 Actualmente aprendiendo
 
-
-## 📚 Actualmente aprendiendo
-
 * Python
 * Desarrollo de interfaces gráficas
 * Flask
