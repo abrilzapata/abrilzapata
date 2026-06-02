@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  👩‍💻
+  <img 
+    src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" 
+    alt="Mujer tecnológica" 
+    width="72"
+  >
 </p>
 
 <h1 align="center">Hola 👋, soy Abril Zapata</h1>
