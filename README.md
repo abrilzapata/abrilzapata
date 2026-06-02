@@ -6,7 +6,7 @@
   <img 
     src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" 
     alt="Mujer tecnológica" 
-    width="72"
+    width="60"
   >
 </p>
 
