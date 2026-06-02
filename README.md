@@ -54,7 +54,7 @@
       <strong>Procesos + Tecnología + Personas</strong>
       <br><br>
       <a href="https://abrilzapata-portfolio.netlify.app/">
-        Ver Portfolio
+      
       </a>
     </td>
   </tr>
