@@ -59,13 +59,15 @@
 
 <br>
 
+<br>
+
 ## 📚 Actualmente aprendiendo
 
 * Python
 * Desarrollo de interfaces gráficas
-* Flask
 * Power BI y visualización de datos
 * SAP HCM
+* Flask
 * Aplicaciones orientadas al usuario
 
 <br>
@@ -84,66 +86,19 @@
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI">
-  <img src="https://img.shields.io/badge/Data_Analytics-0F8B8D?style=for-the-badge" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Data_Analytics-7E22CE?style=for-the-badge&logoColor=white" alt="Data Analytics">
   <img src="https://img.shields.io/badge/SAP_HCM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HCM">
 </p>
 
 ### Herramientas y tecnologías en desarrollo
 
 <p>
-  <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
-
-<br>
-
-## 🚀 Proyectos destacados
-
-### 🧮 Calculadora científica en Python
-
-Aplicación de escritorio desarrollada con **Python**, **PyQt6**, **NumPy** y **Matplotlib**, diseñada para simular una calculadora científica real e incorporar graficación de funciones matemáticas.
-
-**Funcionalidades principales:**
-
-* operaciones básicas y avanzadas;
-* funciones trigonométricas;
-* potencias, raíces y logaritmos;
-* modos DEG / RAD / GRA;
-* graficación dinámica de funciones.
-
-🔗 [Ver repositorio](https://github.com/abrilzapata/python-calculator)
-🌐 [Ver proyecto en mi portfolio](https://abrilzapata-portfolio.netlify.app/)
-
----
-
-### 📊 People Analytics Dashboard
-
-Proyecto visual orientado al análisis de indicadores de Recursos Humanos, enfocado en métricas de dotación, movimientos de personal, diversidad y evolución mensual.
-
-**Indicadores presentados:**
-
-* headcount;
-* altas y bajas;
-* rotación;
-* distribución por área;
-* composición por género;
-* evolución mensual.
-
-🌐 [Ver proyecto en mi portfolio](https://abrilzapata-portfolio.netlify.app/)
-
----
-
-### 💱 Conversor de Divisas — Próximamente
-
-Aplicación planificada para convertir importes entre monedas mediante tasas de cambio en tiempo real, desarrollándose de manera incremental.
-
-**Etapas previstas:**
-
-1. versión por consola con Python;
-2. aplicación de escritorio con Tkinter;
-3. aplicación web con Flask y consumo de API.
 
 <br>
 
@@ -158,8 +113,3 @@ Aplicación planificada para convertir importes entre monedas mediante tasas de 
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  Gracias por visitar mi perfil ✨
-</p>
