@@ -27,12 +27,9 @@
       </p>
       <p align="center">
         👩‍🎓 Soy estudiante de <strong>Ingeniería Industrial</strong>.
-      </p>
-      <p align="center">
-        💼 Me desempeño como <strong>Consultora SAP</strong>,<br>
-        con experiencia en procesos de Personas.
-      </p>
-      <p align="center">
+     <p align="center">
+  💼 Me desempeño como <strong>Analista de RRHH (SAP)</strong>.
+</p>
         📊 Me interesa conectar <strong>procesos, datos y tecnología</strong>.
       </p>
       <p align="center">
@@ -63,12 +60,12 @@
 
 ## 📚 Actualmente aprendiendo
 
-* Python
-* Desarrollo de interfaces gráficas
-* Power BI y visualización de datos
-* SAP HCM
-* Flask
-* Aplicaciones orientadas al usuario
+- Automatizaciones
+- Desarrollo de interfaces gráficas
+- Power BI y visualización de datos
+- SAP HCM
+- Flask
+- Aplicaciones orientadas al usuario
 
 <br>
 
