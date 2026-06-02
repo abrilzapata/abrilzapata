@@ -33,12 +33,13 @@
       </ul>
     </td>
     <td width="44%" valign="middle" align="center">
-      <br>
-      <strong>Procesos + Tecnología + Personas</strong>
+      <img 
+        src="./imagen-tecnologica-lavender.png" 
+        alt="Ilustración tecnológica decorativa"
+        width="320"
+      />
       <br><br>
-      <code>Python</code>
-      <code>SAP</code>
-      <code>Analytics</code>
+      <strong>Procesos + Tecnología + Personas</strong>
       <br><br>
       <a href="https://abrilzapata-portfolio.netlify.app/">
         Ver Portfolio
