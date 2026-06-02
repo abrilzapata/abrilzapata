@@ -64,7 +64,6 @@
 - Desarrollo de interfaces gráficas
 - Power BI y visualización de datos
 - SAP HCM
-- Flask
 - Aplicaciones orientadas al usuario
 
 <br>
