@@ -1,9 +1,3 @@
-<div align="left">
-  <sub>abrilzapata / README.md</sub>
-</div>
-
-<br>
-
 <p align="left">
   🔴 🟡 🟢
 </p>
@@ -22,19 +16,33 @@
 
 <table>
   <tr>
-    <td width="56%" valign="top">
-      <ul>
-        <li>🌱 Actualmente estoy fortaleciendo mis conocimientos en <strong>Python</strong> y desarrollo de aplicaciones.</li>
-        <li>👩‍🎓 Soy estudiante de <strong>Ingeniería Industrial</strong>.</li>
-        <li>💼 Me desempeño como <strong>Consultora SAP</strong>, con experiencia en procesos de Personas.</li>
-        <li>📊 Me interesa conectar <strong>procesos, datos y tecnología</strong>.</li>
-        <li>🚀 Desarrollo proyectos orientados a mejorar mi perfil técnico y funcional.</li>
-        <li>🌐 Podés conocer mis proyectos en mi <a href="https://abrilzapata-portfolio.netlify.app/">portfolio profesional</a>.</li>
-      </ul>
+    <td width="56%" align="center" valign="middle">
+      <p align="center">
+        🌱 Actualmente estoy fortaleciendo mis conocimientos en<br>
+        <strong>Python</strong> y desarrollo de aplicaciones.
+      </p>
+      <p align="center">
+        👩‍🎓 Soy estudiante de <strong>Ingeniería Industrial</strong>.
+      </p>
+      <p align="center">
+        💼 Me desempeño como <strong>Consultora SAP</strong>,<br>
+        con experiencia en procesos de Personas.
+      </p>
+      <p align="center">
+        📊 Me interesa conectar <strong>procesos, datos y tecnología</strong>.
+      </p>
+      <p align="center">
+        🚀 Desarrollo proyectos orientados a mejorar<br>
+        mi perfil técnico y funcional.
+      </p>
+      <p align="center">
+        🌐 Podés conocer mis proyectos en mi<br>
+        <a href="https://abrilzapata-portfolio.netlify.app/"><strong>portfolio profesional</strong></a>.
+      </p>
     </td>
     <td width="44%" valign="middle" align="center">
-      <img 
-        src="./imagen-tecnologica-lavender.png" 
+      <img
+        src="./imagen-tecnologica-lavender.png"
         alt="Ilustración tecnológica decorativa"
         width="320"
       />
@@ -49,6 +57,9 @@
 </table>
 
 <br>
+
+## 📚 Actualmente aprendiendo
+
 
 ## 📚 Actualmente aprendiendo
 
