@@ -44,19 +44,16 @@
         <a href="https://abrilzapata-portfolio.netlify.app/"><strong>portfolio profesional</strong></a>.
       </p>
     </td>
-    <td width="44%" valign="middle" align="center">
-      <img
-        src="./imagen-tecnologica-lavender.png"
-        alt="Ilustración tecnológica decorativa"
-        width="320"
-      />
-      <br><br>
-      <strong>Procesos + Tecnología + Personas</strong>
-      <br><br>
-      <a href="https://abrilzapata-portfolio.netlify.app/">
-      Ver portfolio
-      </a>
-    </td>
+   <td width="44%" valign="middle" align="center">
+  <img 
+    src="./imagen-tecnologica-lavanda.png" 
+    alt="Ilustración tecnológica decorativa"
+    width="320"
+  />
+  <br><br>
+  <strong>Procesos + Tecnología + Personas</strong>
+</td>
+
   </tr>
 </table>
 
