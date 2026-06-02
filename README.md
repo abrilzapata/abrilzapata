@@ -46,7 +46,7 @@
     </td>
    <td width="44%" valign="middle" align="center">
   <img 
-    src="./imagen-tecnologica-lavanda.png" 
+    src="./imagen-tecnologica-lavender.png" 
     alt="Ilustración tecnológica decorativa"
     width="320"
   />
