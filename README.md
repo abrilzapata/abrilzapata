@@ -13,7 +13,10 @@
 <h1 align="center">Hola 👋, soy Abril Zapata</h1>
 
 <h3 align="center">
-  Estudiante de Ingeniería Industrial | Consultora SAP
+
+<h3 align="center">Estudiante de Ingeniería Industrial | SAP</h3>
+
+
 </h3>
 
 <hr>
@@ -92,7 +95,6 @@
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
 
